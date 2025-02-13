@@ -1,0 +1,84 @@
+en:
+  languageName: English
+  weight: 1
+  ### copyright (markdown can be used) ###
+  copyright: "[Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
+  title: "Atlanta House of Hope"
+  params:
+    description: "A website with resources, information, and the forms needed for immigrant parents in Georgia to complete and have notarized. This will help ensure that their children are protected and have a safe place to stay."
+    ### accessibility ###
+    # accessibility:
+    #   skip_text: "Skip to content"
+    #   help_text: "Accessibility Statement"
+    #   help_url: "/example-page/"
+    ### calls to action ###
+    # main_cta:
+    #   text: "How to Help"
+    #   link: "how-to-help/"
+    # footer_cta:
+    #   text: "How to Help"
+    #   link: "how-to-help/"
+
+  ### example menu showing children ###
+  menu:
+    main:
+    - identifier: "know-your-rights"
+      name: "Know Your Rights"
+      url: "know-your-rights/"
+      weight: 1 
+    - identifier: "documents"
+      name: "Documents"
+      url: "documents/"
+      weight: 2
+    - identifier: "about-us"
+      name: "About Us"
+      url: "about-us/"
+      weight: 3
+    - identifier: "other-resources"
+      name: "Other Resources"
+      url: "other-resources/"
+      weight: 4
+
+
+    
+es:
+  languageName: Spanish
+  contentDir: content/es
+  weight: 1
+  ### copyright (markdown can be used) ###
+  copyright: "[Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
+  title: "Atlanta House of Hope"
+  params:
+    description: "Un sitio web con recursos, información y los formularios que los padres inmigrantes en Georgia deben completar y notarizar. Esto ayudará a garantizar que sus hijos estén protegidos y tengan un lugar seguro donde quedarse."
+    ### accessibility ###
+    # accessibility:
+    #   skip_text: "Skip to content"
+    #   help_text: "Accessibility Statement"
+    #   help_url: "/example-page/"
+    ### calls to action ###
+    # main_cta:
+    #   text: "Cómo ayudar"
+    #   link: "como-ayudar/"
+    # footer_cta:
+    #   text: "Cómo ayudar"
+    #   link: "como-ayudar/"
+
+  ### example menu showing children ###
+  menu:
+    main:
+    - identifier: "conozca-sus-derechos"
+      name: "Conozca sus derechos"
+      url: "conozca-sus-derechos/"
+      weight: 1 
+    - identifier: "documentos"
+      name: "Documentos"
+      url: "documentos/"
+      weight: 2
+    - identifier: "sobre-nosotras"
+      name: "Sobre nosotras"
+      url: "sobre-nosotras/"
+      weight: 3
+    - identifier: "otros-recursos"
+      name: "Otros Recursos"
+      url: "otros-recursos/"
+      weight: 4

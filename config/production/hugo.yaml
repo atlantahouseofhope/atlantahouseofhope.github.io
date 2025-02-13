@@ -1,0 +1,11 @@
+######################## production configuration ####################
+# The base URL of your site (required). This will be prepended to all relative URLs.
+# baseURL: https://erickemde.github.io/atl-house-of-hope/
+baseURL: https://atlantahouseofhope.github.io/
+googleAnalytics:
+enableRobotsTXT: true
+build:
+  writeStats: true
+params:
+    assets:
+        disableFingerprinting: true
