@@ -13,3 +13,5 @@ unlisted = true
 * Organizaciones sin fines de lucro en Georgia que abogan por los inmigrantes - <a href="https://www.immigrationadvocates.org/nonprofit/legaldirectory/search?state=GA" target="_blank">https://www.immigrationadvocates.org/nonprofit/legaldirectory/search?state=GA</a>
 
 * ACLU - Conozca sus derechos | Derechos de los Inmigrantes - <a href="https://www.aclu.org/know-your-rights/derechos-de-los-inmigrantes" target="_blank">https://www.aclu.org/know-your-rights/derechos-de-los-inmigrantes</a>
+
+* GALEO: Apoyando a la Comunidad Latina de Georgia - <a href="https://galeo.org" target="_blank">https://galeo.org</a>

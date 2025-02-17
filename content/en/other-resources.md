@@ -12,4 +12,6 @@ unlisted = true
 
 * Nonprofit organizations in Georgia that advocate for immigrants - <a href="https://www.immigrationadvocates.org/nonprofit/legaldirectory/search?state=GA" target="_blank">https://www.immigrationadvocates.org/nonprofit/legaldirectory/search?state=GA</a>
 
-* ACLU - Know Your Rights | Immigrants’ Rights - <a href="https://www.aclu.org/know-your-rights/immigrants-rights " target="_blank">https://www.aclu.org/know-your-rights/immigrants-rights</a>
+* ACLU - Know Your Rights | Immigrants’ Rights - <a href="https://www.aclu.org/know-your-rights/immigrants-rights" target="_blank">https://www.aclu.org/know-your-rights/immigrants-rights</a>
+
+* GALEO: Supporting Georgia’s Latino community - <a href="https://galeo.org" target="_blank">https://galeo.org</a>
