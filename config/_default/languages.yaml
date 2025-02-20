@@ -30,14 +30,18 @@ en:
       name: "Documents"
       url: "documents/"
       weight: 2
+    - identifier: "understanding-warrants"
+      name: "Understanding Warrants"
+      url: "understanding-warrants/"
+      weight: 3
     - identifier: "about-us"
       name: "About Us"
       url: "about-us/"
-      weight: 3
+      weight: 4
     - identifier: "other-resources"
       name: "Other Resources"
       url: "other-resources/"
-      weight: 4
+      weight: 5
 
 
     
@@ -74,11 +78,15 @@ es:
       name: "Documentos"
       url: "documentos/"
       weight: 2
+    - identifier: "entendiendo-garantias"
+      name: "Entendiendo las Garantías (Warrants)"
+      url: "entendiendo-garantias/"
+      weight: 3
     - identifier: "sobre-nosotras"
       name: "Sobre nosotras"
       url: "sobre-nosotras/"
-      weight: 3
+      weight: 4
     - identifier: "otros-recursos"
       name: "Otros Recursos"
       url: "otros-recursos/"
-      weight: 4
+      weight: 5
