@@ -15,3 +15,5 @@ unlisted = true
 * ACLU - Conozca sus derechos | Derechos de los Inmigrantes - <a href="https://www.aclu.org/know-your-rights/derechos-de-los-inmigrantes" target="_blank">https://www.aclu.org/know-your-rights/derechos-de-los-inmigrantes</a>
 
 * GALEO: Apoyando a la Comunidad Latina de Georgia - <a href="https://galeo.org" target="_blank">https://galeo.org</a>
+
+* Latino Community Fund (LCF)  - <a href="https://lcfgeorgia.org/" target="_blank">https://lcfgeorgia.org/</a>

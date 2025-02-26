@@ -1,3 +1,4 @@
+.gitignore
 404.html
 apple-touch-icon.png
 favicon-32x32.png
@@ -16,8 +17,15 @@ downloads/2.12.25-QR-Fillable-POAandTempGuard.pdf
 downloads/2.12.25-QR-Guia-de-Preparacion-para-Familias-scan-for-forms-2-2025.pdf
 downloads/2.12.25-QR-Immigrant-Family-Preparedness-Guide-w-scan-for-forms-2-2025.pdf
 downloads/2.12.25-QR-No.Abra.La.Puerta.pdf
-downloads/2.12.25-QR-POA-and-Temp-Guard-translation-FINAL.pdf
 downloads/2.12.25-QR-POA-and-Temp-Guard.pdf
+downloads/I-200_SAMPLE.pdf
+downloads/Judicial-Warrant2.pdf
+downloads/Know-Your-Rights-ICE-Flyer_editedEnglish.pdf
+downloads/Know-Your-Rights-ICE-Flyer_editedSpanish.pdf
+downloads/Petition-for-Temporary-Letters-of-Guardianship-of-Minor-Fillable.pdf
+downloads/Power-of-Attorney-for-Care-of-A-Minor-Child-Fillable.pdf
+downloads/Warrants101EngEdited.pdf
+downloads/Warrants101SpanishEdited.pdf
 en/index.html
 en/sitemap.xml
 es/404.html
@@ -28,6 +36,7 @@ es/categories/index.html
 es/categories/index.xml
 es/conozca-sus-derechos/index.html
 es/documentos/index.html
+es/entendiendo-garantias/index.html
 es/faqs/index.html
 es/otros-recursos/index.html
 es/sobre-nosotras/index.html
@@ -80,9 +89,4 @@ know-your-rights/index.html
 other-resources/index.html
 tags/index.html
 tags/index.xml
-downloads/I-200_SAMPLE.pdf
-downloads/Judicial-Warrant2.pdf
-downloads/Know-Your-Rights-ICE-Flyer_editedEnglish.pdf
-downloads/Know-Your-Rights-ICE-Flyer_editedSpanish.pdf
-downloads/Warrants101EngEdited.pdf
-downloads/Warrants101SpanishEdited.pdf
+understanding-warrants/index.html
