@@ -2,69 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://atlantahouseofhope.org/es/</loc>
+    <loc>http://localhost:1313/es/</loc>
     <lastmod>2025-02-06T00:25:34-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atlantahouseofhope.org/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://atlantahouseofhope.org/es/"
+                href="http://localhost:1313/es/"
                 />
   </url><url>
-    <loc>https://atlantahouseofhope.org/es/conozca-sus-derechos/</loc>
+    <loc>http://localhost:1313/es/conozca-sus-derechos/</loc>
     <lastmod>2025-02-06T00:25:34-05:00</lastmod>
   </url><url>
-    <loc>https://atlantahouseofhope.org/es/documentos/</loc>
+    <loc>http://localhost:1313/es/documentos/</loc>
     <lastmod>2025-02-06T00:21:18-05:00</lastmod>
   </url><url>
-    <loc>https://atlantahouseofhope.org/es/entendiendo-garantias/</loc>
+    <loc>http://localhost:1313/es/entendiendo-garantias/</loc>
     <lastmod>2025-02-06T00:21:18-05:00</lastmod>
   </url><url>
-    <loc>https://atlantahouseofhope.org/es/otros-recursos/</loc>
+    <loc>http://localhost:1313/es/otros-recursos/</loc>
     <lastmod>2025-02-06T00:21:18-05:00</lastmod>
   </url><url>
-    <loc>https://atlantahouseofhope.org/es/faqs/</loc>
+    <loc>http://localhost:1313/es/faqs/</loc>
     <lastmod>2025-02-06T00:21:18-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atlantahouseofhope.org/faqs/"
+                href="http://localhost:1313/faqs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://atlantahouseofhope.org/es/faqs/"
+                href="http://localhost:1313/es/faqs/"
                 />
   </url><url>
-    <loc>https://atlantahouseofhope.org/es/sobre-nosotras/</loc>
+    <loc>http://localhost:1313/es/sobre-nosotras/</loc>
     <lastmod>2025-02-06T00:21:18-05:00</lastmod>
   </url><url>
-    <loc>https://atlantahouseofhope.org/es/categories/</loc>
+    <loc>http://localhost:1313/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atlantahouseofhope.org/categories/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://atlantahouseofhope.org/es/categories/"
+                href="http://localhost:1313/es/categories/"
                 />
   </url><url>
-    <loc>https://atlantahouseofhope.org/es/tags/</loc>
+    <loc>http://localhost:1313/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://atlantahouseofhope.org/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://atlantahouseofhope.org/es/tags/"
+                href="http://localhost:1313/es/tags/"
                 />
   </url>
 </urlset>
