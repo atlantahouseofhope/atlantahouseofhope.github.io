@@ -15,6 +15,10 @@ Links to printable PDF forms:
 
 * <a href="/downloads/2.12.25-QR-POA-and-Temp-Guard.pdf" target="_blank">Power of Attorney Documents</a>
 
+* <a href="/downloads/Georgia-Revocation-of-Power-of-Attorney.pdf" target="_blank">Georgia Revocation of Power of Attorney Documents</a>
+
+* <a href="/downloads/Minor-Child-Travel-Consent-Form.pdf" target="_blank">Minor (Child) Travel Consent Form</a>
+
 * <a href="/downloads/2.14.25-QR-POAandTempGuardtranslation.pdf" target="_blank">Documentos de Poder Notarial</a>
 
 * <a href="/downloads/2.12.25-QR-Guia-de-Preparacion-para-Familias-scan-for-forms-2-2025.pdf" target="_blank">Guía de preparación para familias inmigrantes en el estado de Georgia</a>
