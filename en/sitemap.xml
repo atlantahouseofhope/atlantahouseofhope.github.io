@@ -2,69 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://atlantahouseofhope.org/</loc>
     <lastmod>2025-02-06T00:25:34-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/"
+                href="https://atlantahouseofhope.org/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://atlantahouseofhope.org/"
                 />
   </url><url>
-    <loc>http://localhost:1313/know-your-rights/</loc>
+    <loc>https://atlantahouseofhope.org/know-your-rights/</loc>
     <lastmod>2025-02-06T00:25:34-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about-us/</loc>
+    <loc>https://atlantahouseofhope.org/about-us/</loc>
     <lastmod>2025-02-06T00:21:18-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/documents/</loc>
+    <loc>https://atlantahouseofhope.org/documents/</loc>
     <lastmod>2025-02-06T00:21:18-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/faqs/</loc>
+    <loc>https://atlantahouseofhope.org/faqs/</loc>
     <lastmod>2025-02-06T00:21:18-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/faqs/"
+                href="https://atlantahouseofhope.org/es/faqs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/faqs/"
+                href="https://atlantahouseofhope.org/faqs/"
                 />
   </url><url>
-    <loc>http://localhost:1313/other-resources/</loc>
+    <loc>https://atlantahouseofhope.org/other-resources/</loc>
     <lastmod>2025-02-06T00:21:18-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/understanding-warrants/</loc>
+    <loc>https://atlantahouseofhope.org/understanding-warrants/</loc>
     <lastmod>2025-02-06T00:21:18-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://atlantahouseofhope.org/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/categories/"
+                href="https://atlantahouseofhope.org/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://atlantahouseofhope.org/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://atlantahouseofhope.org/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/tags/"
+                href="https://atlantahouseofhope.org/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://atlantahouseofhope.org/tags/"
                 />
   </url>
 </urlset>
