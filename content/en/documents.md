@@ -9,9 +9,9 @@ Anyone can download and print these documents for no cost.  Beware of anyone tha
 
 Links to printable PDF forms:
 
-* <a href="/downloads/Power-of-Attorney-for-Care-of-A-Minor-Child-Fillable.pdf" target="_blank">Power of Attorney for Care of A Minor Child (Fillable PDF form)</a>
+* <a href="/downloads/Power-of-Attorney-for-Care-of-A-Minor-Child-test.pdf" target="_blank">Power of Attorney for Care of A Minor Child (Fillable PDF form)</a>
 
-* <a href="/downloads/Power-of-Attorney-both parents-Power-Authority for the Care of a Child.pdf" target="_blank">Power of Attorney for Two Parents to Sign - for Care of A Minor Child (Fillable PDF form)</a>
+* <a href="/downloads/2-Power-of-Attorney-for-Care-of-A-Minor-Child-Fillable.pdf" target="_blank">Power of Attorney for Two Parents to Sign - for Care of A Minor Child (Fillable PDF form)</a>
 
 * <a href="/downloads/Petition-for-Temporary-Letters-of-Guardianship-of-Minor-Fillable.pdf" target="_blank">Petition for Temporary Letters of Guardianship of Minor (Fillable PDF form)</a>
 

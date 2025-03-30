@@ -7,9 +7,9 @@ Cualquiera puede descargar e imprimir estos documentos sin costo alguno. Tenga c
 
 Enlaces a formularios PDF imprimibles:
 
-* <a href="/downloads/Power-of-Attorney-for-Care-of-A-Minor-Child-Fillable.pdf" target="_blank">Poder notarial para el cuidado de un menor (formulario PDF rellenable)</a>
+* <a href="/downloads/Power-of-Attorney-for-Care-of-A-Minor-Child-test.pdf" target="_blank">Poder notarial para el cuidado de un menor (formulario PDF rellenable)</a>
 
-* <a href="/downloads/Power-of-Attorney-both parents-Power-Authority for the Care of a Child.pdf" target="_blank">Poder notarial para la firma de ambos padres para el cuidado de un menor (formulario PDF rellenable)</a>
+* <a href="/downloads/2-Power-of-Attorney-for-Care-of-A-Minor-Child-Fillable.pdf" target="_blank">Poder notarial para la firma de ambos padres para el cuidado de un menor (formulario PDF rellenable)</a>
 
 * <a href="/downloads/Petition-for-Temporary-Letters-of-Guardianship-of-Minor-Fillable.pdf" target="_blank">Petición de cartas de tutela temporal de un menor (formulario PDF rellenable)</a>
 
