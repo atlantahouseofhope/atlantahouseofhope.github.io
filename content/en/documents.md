@@ -17,6 +17,8 @@ Links to printable PDF forms:
 
 * <a href="/downloads/2.12.25-QR-POA-and-Temp-Guard.pdf" target="_blank">Power of Attorney Documents</a>
 
+* <a href="/downloads/Alabama-Minor-Child-Power-of-Attorney.pdf" target="_blank">Alabama Minor Child Power of Attorney</a>
+
 * <a href="/downloads/Georgia-Revocation-of-Power-of-Attorney.pdf" target="_blank">Georgia Revocation of Power of Attorney Documents</a>
 
 * <a href="/downloads/Minor-Child-Travel-Consent-Form.pdf" target="_blank">Minor (Child) Travel Consent Form</a>

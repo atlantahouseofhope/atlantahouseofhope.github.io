@@ -15,6 +15,8 @@ Enlaces a formularios PDF imprimibles:
 
 * <a href="/downloads/2.12.25-QR-POA-and-Temp-Guard.pdf" target="_blank">Documentos de Poder Notarial (formularios en inglés)</a>
 
+* <a href="/downloads/Alabama-Minor-Child-Power-of-Attorney.pdf" target="_blank">Poder notarial para menores de Alabama (formularios en inglés)</a>
+
 * <a href="/downloads/Georgia-Revocation-of-Power-of-Attorney.pdf" target="_blank">Documentos de revocación de poder notarial en Georgia</a>
 
 * <a href="/downloads/Minor-Child-Travel-Consent-Form.pdf" target="_blank">Formulario de consentimiento de viaje para menores (niños)</a>
