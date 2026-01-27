@@ -3,3 +3,5 @@ public/
 resources/_gen/
 .hugo_build.lock
 hugo_stats.json
+
+themes/dot-org-hugo-theme/static/downloads/Archive/

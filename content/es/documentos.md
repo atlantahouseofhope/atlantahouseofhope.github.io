@@ -7,26 +7,34 @@ Cualquiera puede descargar e imprimir estos documentos sin costo alguno. Tenga c
 
 Enlaces a formularios PDF imprimibles:
 
-* <a href="/downloads/Power-of-Attorney-for-Care-of-A-Minor-Child-test.pdf" target="_blank">Poder notarial para el cuidado de un menor (formulario PDF rellenable)</a>
+## Aprenda cómo estar preparado
+* <a href="/downloads/Ga_immigrant_family_preparedness_guide_english_2019_update_1.pdf" target="_blank">Guía de preparación para familias inmigrantes de Georgia (inglés)</a>
+* <a href="/downloads/Ga GUÍA DE  PREPARACIÓN PARA FAMILIAS INMIGRANTES Espanol 2019 update.pdf" target="_blank">Ga GUÍA DE PREPARACIÓN PARA FAMILIAS INMIGRANTES (Espanol)</a>
+* <a href="/downloads/No Your Rights English y Espanol.pdf" target="_blank">Conozca sus derechos (inglés y español)</a>
+* <a href="/downloads/ChurchSignForDoors.pdf" target="_blank">Cartel para puertas de iglesias</a>
 
-* <a href="/downloads/2-Power-of-Attorney-for-Care-of-A-Minor-Child-Fillable.pdf" target="_blank">Poder notarial para la firma de ambos padres para el cuidado de un menor (formulario PDF rellenable)</a>
+## Documentos generales
+* <a href="/downloads/Info Form for Parents AHOH.pdf" target="_blank">Formulario de información para padres</a>
+* <a href="/downloads/Minor-Child-Travel-Consent-Form (1).pdf" target="_blank">Formulario de consentimiento para viajes de menores</a>
+* <a href="/downloads/Notice of Appearance of Attorney or Rep.pdf" target="_blank">Aviso de comparecencia de abogado o representante</a>
+* <a href="/downloads/Passport Consent of Absent Parent.pdf" target="_blank">Formulario de pasaporte: Consentimiento del padre ausente</a>
+* <a href="/downloads/Passport Form 1 Parent Unavailable.pdf" target="_blank">Formulario de pasaporte: Un padre no disponible</a>
 
-* <a href="/downloads/Petition-for-Temporary-Letters-of-Guardianship-of-Minor-Fillable.pdf" target="_blank">Petición de cartas de tutela temporal de un menor (formulario PDF rellenable)</a>
+## Formularios de Alabama
+* <a href="/downloads/Alabama/1 Parent AL-Minor-Child-Power-of-Attorney fillable.pdf" target="_blank">Poder notarial para menores con un solo padre (Alabama) (editable)</a>
+* <a href="/downloads/Alabama/1 Padre AL-POA por los jovenes en Espanol.pdf" target="_blank">Poder notarial para menores con un solo padre (Alabama) (español)</a>
+* <a href="/downloads/Alabama/2 Parent AL-Minor-Child-Power-of-Attorney fillable.pdf" target="_blank">Poder notarial para menores con dos padres (Alabama) (editable)</a>
+* <a href="/downloads/Alabama/Revocation-of-Power-of-Attorney.pdf" target="_blank">Revocación de poder notarial</a>
 
-* <a href="/downloads/2.12.25-QR-POA-and-Temp-Guard.pdf" target="_blank">Documentos de Poder Notarial (formularios en inglés)</a>
+## Formularios de Georgia
+* <a href="/downloads/Georgia/1 parent Georgia-Minor-Child-Power-of-Attorney-Form Fillable test.pdf" target="_blank">Formulario de poder notarial para menores con un solo padre (Georgia) (editable)</a>
+* <a href="/downloads/Georgia/1 Padre POA en Espanol.pdf" target="_blank">Poder notarial para menores con un solo padre (Georgia) (español)</a>
+* <a href="/downloads/Georgia/2 Parent Georgia Power-of-Attorney-for-Care-of-A-Minor-Child-Fillable.pdf" target="_blank">Formulario de poder notarial para menores con dos padres (Georgia) (editable)</a>
+* <a href="/downloads/Georgia/Ga Notice to  Non Custodial Parent Eng & Spanish.pdf" target="_blank">Aviso de Georgia para el padre sin custodia (inglés y español)</a>
+* <a href="/downloads/Georgia/Georgia-Revocation-of-Power-of-Attorney.pdf" target="_blank">Revocación de poder notarial de Georgia</a>
 
-* <a href="/downloads/Alabama-Minor-Child-Power-of-Attorney.pdf" target="_blank">Poder notarial para menores de Alabama (formularios en inglés)</a>
+## Formularios de otros estados (solo en inglés)
+* <a href="/downloads/Other_States/FL Power of Attorney Form.pdf" target="_blank">Formulario de poder notarial de Florida</a>
+* <a href="/downloads/Other_States/Revocation-of-Power-of-Attorney.pdf" target="_blank">Revocación de poder notarial</a>
+* <a href="/downloads/Other_States/TN Minor-Child-Power-of-Attorney-Form fillable.pdf" target="_blank">Formulario de poder notarial para menores de Tennessee (editable)</a>
 
-* <a href="/downloads/Georgia-Revocation-of-Power-of-Attorney.pdf" target="_blank">Documentos de revocación de poder notarial en Georgia</a>
-
-* <a href="/downloads/Minor-Child-Travel-Consent-Form.pdf" target="_blank">Formulario de consentimiento de viaje para menores (niños)</a>
-
-* <a href="/downloads/2.14.25-QR-POAandTempGuardtranslation.pdf" target="_blank">Documentos de Poder Notarial</a>
-
-* <a href="/downloads/2.12.25-QR-Guia-de-Preparacion-para-Familias-scan-for-forms-2-2025.pdf" target="_blank">Guía de preparación para familias inmigrantes en el estado de Georgia</a>
-
-* <a href="/downloads/2.12.25-QR-Immigrant-Family-Preparedness-Guide-w-scan-for-forms-2-2025.pdf" target="_blank">Immigrant Family Preparedness Guide for Georgia Families</a>
-
-* <a href="/downloads/2.12.25-QR-No.Abra.La.Puerta.pdf" target="_blank">Conozca sus derechos y cómo plantearlos a los agentes de ICE</a>
-
-* <a href="/downloads/ChurchSignForDoors.pdf" target="_blank">Letrero de Iglesia para Puertas</a>
