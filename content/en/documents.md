@@ -37,6 +37,8 @@ Links to printable PDF forms:
 
 ## Forms from other States (English language versions only)
 * <a href="/downloads/Other_States/FL Power of Attorney Form.pdf" target="_blank">Florida Power of Attorney Form</a>
+* <a href="/downloads/Other_States/Kentucky-Minor-Child-Power-of-Attorney-Form.pdf" target="_blank">Kentucky Minor Child Power of Attorney Form (fillable)</a>
 * <a href="/downloads/Other_States/Revocation-of-Power-of-Attorney.pdf" target="_blank">Revocation of Power of Attorney</a>
+* <a href="/downloads/Other_States/South-Carolina-Minor-Child-Power-of-Attorney-Form FILLABLE.pdf" target="_blank">South Carolina Minor Child Power of Attorney Form (fillable)</a>
 * <a href="/downloads/Other_States/TN Minor-Child-Power-of-Attorney-Form fillable.pdf" target="_blank">Tennessee Minor Child Power of Attorney Form (fillable)</a>
 
