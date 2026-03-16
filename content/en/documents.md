@@ -17,6 +17,7 @@ Links to printable PDF forms:
 
 ## General Documents
 * <a href="/downloads/Info Form for Parents AHOH.pdf" target="_blank">Information Form for Parents</a>
+* <a href="/downloads/Family_Information_Sheet_Eng_Sp.pdf" target="_blank">Family Plan Document (English and Espanol)</a>
 * <a href="/downloads/Minor-Child-Travel-Consent-Form (1).pdf" target="_blank">Minor Child Travel Consent Form</a>
 * <a href="/downloads/Notice of Appearance of Attorney or Rep.pdf" target="_blank">Notice of Appearance of Attorney or Rep</a>
 * <a href="/downloads/Passport Consent of Absent Parent.pdf" target="_blank">Passport Form: Consent of Absent Parent</a>
@@ -38,7 +39,6 @@ Links to printable PDF forms:
 ## Forms from other States (English language versions only)
 * <a href="/downloads/Other_States/FL Power of Attorney Form.pdf" target="_blank">Florida Power of Attorney Form</a>
 * <a href="/downloads/Other_States/Kentucky-Minor-Child-Power-of-Attorney-Form.pdf" target="_blank">Kentucky Minor Child Power of Attorney Form (fillable)</a>
-* <a href="/downloads/Other_States/Revocation-of-Power-of-Attorney.pdf" target="_blank">Revocation of Power of Attorney</a>
 * <a href="/downloads/Other_States/South-Carolina-Minor-Child-Power-of-Attorney-Form FILLABLE.pdf" target="_blank">South Carolina Minor Child Power of Attorney Form (fillable)</a>
 * <a href="/downloads/Other_States/TN Minor-Child-Power-of-Attorney-Form fillable.pdf" target="_blank">Tennessee Minor Child Power of Attorney Form (fillable)</a>
 

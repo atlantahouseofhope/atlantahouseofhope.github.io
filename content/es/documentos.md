@@ -15,6 +15,7 @@ Enlaces a formularios PDF imprimibles:
 
 ## Documentos generales
 * <a href="/downloads/Info Form for Parents AHOH.pdf" target="_blank">Formulario de información para padres</a>
+* <a href="/downloads/Family_Information_Sheet_Eng_Sp.pdf" target="_blank">Documento del plan familiar (inglés y español)</a>
 * <a href="/downloads/Minor-Child-Travel-Consent-Form (1).pdf" target="_blank">Formulario de consentimiento para viajes de menores</a>
 * <a href="/downloads/Notice of Appearance of Attorney or Rep.pdf" target="_blank">Aviso de comparecencia de abogado o representante</a>
 * <a href="/downloads/Passport Consent of Absent Parent.pdf" target="_blank">Formulario de pasaporte: Consentimiento del padre ausente</a>
@@ -36,7 +37,6 @@ Enlaces a formularios PDF imprimibles:
 ## Formularios de otros estados (solo en inglés)
 * <a href="/downloads/Other_States/FL Power of Attorney Form.pdf" target="_blank">Formulario de poder notarial de Florida</a>
 * <a href="/downloads/Other_States/Kentucky-Minor-Child-Power-of-Attorney-Form.pdf" target="_blank">Formulario de poder notarial para menores de Kentucky (editable)</a>
-* <a href="/downloads/Other_States/Revocation-of-Power-of-Attorney.pdf" target="_blank">Revocación de poder notarial</a>
 * <a href="/downloads/Other_States/South-Carolina-Minor-Child-Power-of-Attorney-Form FILLABLE.pdf" target="_blank">Formulario de poder notarial para menores de South Carolina (editable)</a>
 * <a href="/downloads/Other_States/TN Minor-Child-Power-of-Attorney-Form fillable.pdf" target="_blank">Formulario de poder notarial para menores de Tennessee (editable)</a>
 
