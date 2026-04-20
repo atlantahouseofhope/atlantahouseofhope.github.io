@@ -37,6 +37,8 @@ Enlaces a formularios PDF imprimibles:
 ## Formularios de otros estados (solo en inglés)
 * <a href="/downloads/Other_States/FL Power of Attorney Form.pdf" target="_blank">Formulario de poder notarial de Florida</a>
 * <a href="/downloads/Other_States/Kentucky-Minor-Child-Power-of-Attorney-Form.pdf" target="_blank">Formulario de poder notarial para menores de Kentucky (editable)</a>
+* <a href="/downloads/Other_States/Kentucky-Minor-Child-Power-of-Attorney-2 parent Form fillable.pdf" target="_blank">Formulario de poder notarial para hijos menores de edad en Kentucky (para 2 padres) — Rellenable</a>
+* <a href="/downloads/Other_States/North-Carolina-Minor-Child-Power-of-Attorney_Redacted.pdf" target="_blank">Formulario de poder notarial para menores de North Carolina (editable)</a>
 * <a href="/downloads/Other_States/South-Carolina-Minor-Child-Power-of-Attorney-Form FILLABLE.pdf" target="_blank">Formulario de poder notarial para menores de South Carolina (editable)</a>
 * <a href="/downloads/Other_States/TN Minor-Child-Power-of-Attorney-Form fillable.pdf" target="_blank">Formulario de poder notarial para menores de Tennessee (editable)</a>
 
